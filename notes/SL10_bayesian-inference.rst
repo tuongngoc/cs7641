@@ -14,7 +14,8 @@ Bayesian Inference
 
 *scribble*
 
-*slides*   
+*slides*   
+
 *transcript*
 
 M: Hey Charles.
@@ -75,6 +76,7 @@ over complex spaces. And so it fits in really well with the stuff you were talki
 *scribble*
 
 *slides*
+
 
 *transcript*
 
