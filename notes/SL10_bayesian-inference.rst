@@ -14,12 +14,7 @@ Bayesian Inference
 
 *scribble*
 
-*slides*
-.. image:: cs7641/notes/images/sl10_p1_joindist.png
-   :align: center
-   :width: 400
-   :height: 300
-   
+*slides*   
 *transcript*
 
 M: Hey Charles.
